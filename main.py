@@ -24,3 +24,6 @@ tweetOfGod.name
 # returns: TheTweetOfGod
 tweetOfGod.screen_name
 
+# Getting the most recent tweet
+tweetOfGod.status.text
+

@@ -12,4 +12,15 @@ tweetOfGod = api.get_user('TheTweetOfGod')
 # returns: tweepy.models.User
 type(tweetOfGod)
 
+# Check ID
+# returns: 204832963
+tweetOfGod.id
+
+# Check Name
+# returns: God
+tweetOfGod.name
+
+# Check Screen name
+# returns: TheTweetOfGod
+tweetOfGod.screen_name
 
